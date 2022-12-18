@@ -9,3 +9,7 @@ Depois foi utilizado o comando abaixo dentro da basta frontend<br>
     yarn
     
 Esse comando irá baixar as depêndencias do framework utilizado para o frontend
+
+
+
+Estudo React ainda em andamento, conheço as ferramentas e as bibliotecas mas ainda não às domino.
